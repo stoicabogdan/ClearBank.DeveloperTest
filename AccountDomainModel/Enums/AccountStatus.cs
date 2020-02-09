@@ -1,4 +1,4 @@
-﻿namespace ClearBank.DeveloperTest.Types
+﻿namespace AccountDomainModel.Enums
 {
     public enum AccountStatus
     {

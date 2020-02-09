@@ -1,4 +1,4 @@
-﻿namespace ClearBank.DeveloperTest.Types
+﻿namespace AccountDomainModel.Enums
 {
     public enum AllowedPaymentSchemes
     {
@@ -7,3 +7,4 @@
         Chaps = 1 << 2
     }
 }
+
